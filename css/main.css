@@ -6332,7 +6332,7 @@ input.main-search-input:-ms-input-placeholder {
   z-index: 1;
 }
 .text-list li::before {
-  content: "\f00c";
+  /* content: "\f00c"; */
   position: absolute;
   font-family: "Font awesome 5 Pro";
   font-size: 18px;
@@ -10125,6 +10125,10 @@ input.main-search-input:-ms-input-placeholder {
   padding-bottom: 25px;
   position: relative;
   z-index: 1;
+}
+#hait {
+  max-height: 334px;
+  max-width: 630px;
 }
 .blogs__thumb {
   overflow: hidden;
