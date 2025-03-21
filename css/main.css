@@ -5280,6 +5280,17 @@ input.main-search-input:-ms-input-placeholder {
 .services-list h5 {
   margin-bottom: 12px;
 }
+#savi {
+  padding-left: 10px;
+}
+
+.savi-listi li {
+    font-size: 18px;
+    line-height: 40px;
+    position: relative;
+    z-index: 1;
+  list-style: auto;
+}
 
 .about-author2 {
   font-size: 14px;
@@ -5826,6 +5837,9 @@ input.main-search-input:-ms-input-placeholder {
   .about-services-img .img-two {
     display: none;
   }
+}
+.sizer {
+  width: -webkit-fill-available;
 }
 
 .about-services-text p {
