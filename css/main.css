@@ -586,7 +586,7 @@ label {
 }
 
 .logo-area img {
-  max-width: 16%;
+  max-width: 60px;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -3851,7 +3851,7 @@ input.main-search-input:-ms-input-placeholder {
 
 .main-title-two {
   color: #ffffff;
-  font-size: 80px;
+  font-size: 60px;
   line-height: 1.14;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
@@ -4178,6 +4178,9 @@ input.main-search-input:-ms-input-placeholder {
   }
 }
 
+#kala {
+  color: #ffffff;
+}
 .slider__content3 {
   margin-top: 310px;
 }
@@ -12049,7 +12052,7 @@ input.main-search-input:-ms-input-placeholder {
 }
 
 .cta-area.cta-full5.home-5 {
-  background: url(../img/home-5/h4-video-thumbnail.webp) no-repeat;
+  background: url(../img/bg/farmer.webp) no-repeat;
   background-position: center center;
   display: -webkit-box;
   display: -ms-flexbox;
